@@ -1,0 +1,1 @@
+An Assignment folder is a subfolder that shares a user list with its parent folder.In this folder We store HTML assignments..
