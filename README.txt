@@ -1,1 +1,2 @@
-An Assignment folder is a subfolder that shares a user list with its parent folder.In this folder We store HTML assignments..
+An Assignment folder is a subfolder that shares a user list with its parent folder.In this folder We store HTML assignments.
+The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
